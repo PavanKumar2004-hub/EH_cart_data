@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "5v relay module 2-Channel",
-    "src": "https://raw.githubusercontent.com/PavanKumar2004-hub/EH_cart_data/refs/heads/main/img/shop/new arrivals/2Channel-relay-module.webp",
+    "src": "/img/shop/new arrivals/2Channel-relay-module.webp",
     "discount": "20%",
     "reviews": 54,
     "oldPrice": "₹210",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "title": "5v relay module 4-Channel",
-    "src": "../img/shop/new arrivals/4Channel-relay-module.webp",
+    "src": "/img/shop/new arrivals/4Channel-relay-module.webp",
     "discount": "23%",
     "reviews": 44,
     "oldPrice": "₹410",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "title": "Arduino mega 2560 (orginal)",
-    "src": "../img/shop/new arrivals/arduino-mega-2560-org.webp",
+    "src": "/img/shop/new arrivals/arduino-mega-2560-org.webp",
     "discount": "18%",
     "reviews": 542,
     "oldPrice": "₹3500",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "title": "ESP32 Module (IOT)",
-    "src": "../img/shop/new arrivals/esp32.webp",
+    "src": "/img/shop/new arrivals/esp32.webp",
     "discount": "28%",
     "reviews": 223,
     "oldPrice": "₹500",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "title": "Hot GlueGun (White)",
-    "src": "../img/shop/new arrivals/hotGluegun-white.webp",
+    "src": "/img/shop/new arrivals/hotGluegun-white.webp",
     "discount": "28%",
     "reviews": 142,
     "oldPrice": "₹760",
