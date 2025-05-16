@@ -1,48 +1,515 @@
 [
   {
     "id": 1,
-    "title": "5v relay module 2-Channel",
+    "title": "5V Relay Module 2-Channel",
     "src": "/img/shop/new arrivals/2Channel-relay-module.webp",
-    "discount": "20%",
-    "reviews": 54,
-    "oldPrice": "₹210",
-    "newPrice": "₹149"
+    "discount": "65%",
+    "reviews": 345,
+    "oldPrice": "₹350",
+    "newPrice": "₹122.5"
   },
   {
     "id": 2,
-    "title": "5v relay module 4-Channel",
+    "title": "5V Relay Module 4-Channel",
     "src": "/img/shop/new arrivals/4Channel-relay-module.webp",
-    "discount": "23%",
-    "reviews": 44,
-    "oldPrice": "₹410",
-    "newPrice": "₹245"
+    "discount": "48%",
+    "reviews": 287,
+    "oldPrice": "₹680",
+    "newPrice": "₹353.6"
   },
   {
     "id": 3,
-    "title": "Arduino mega 2560 (orginal)",
+    "title": "Arduino Mega 2560 (Original)",
     "src": "/img/shop/new arrivals/arduino-mega-2560-org.webp",
-    "discount": "18%",
-    "reviews": 542,
-    "oldPrice": "₹3500",
-    "newPrice": "₹1957"
+    "discount": "32%",
+    "reviews": 489,
+    "oldPrice": "₹4100",
+    "newPrice": "₹2788"
   },
   {
     "id": 4,
     "title": "ESP32 Module (IOT)",
     "src": "/img/shop/new arrivals/esp32.webp",
-    "discount": "28%",
-    "reviews": 223,
-    "oldPrice": "₹500",
-    "newPrice": "₹223"
+    "discount": "19%",
+    "reviews": 189,
+    "oldPrice": "₹720",
+    "newPrice": "₹583.2"
   },
   {
     "id": 5,
-    "title": "Hot GlueGun (White)",
+    "title": "Hot Glue Gun (White)",
     "src": "/img/shop/new arrivals/hotGluegun-white.webp",
-    "discount": "28%",
-    "reviews": 142,
-    "oldPrice": "₹760",
-    "newPrice": "₹679"
+    "discount": "55%",
+    "reviews": 321,
+    "oldPrice": "₹950",
+    "newPrice": "₹427.5"
+  },
+  {
+    "id": 6,
+    "title": "12V 1A DC Adapter",
+    "src": "/img/shop/adaptors/12 1a.webp",
+    "discount": "71%",
+    "reviews": 412,
+    "oldPrice": "₹800",
+    "newPrice": "₹232"
+  },
+  {
+    "id": 7,
+    "title": "12V 1.7A DC Adapter",
+    "src": "/img/shop/adaptors/12v 1.7a.webp",
+    "discount": "24%",
+    "reviews": 256,
+    "oldPrice": "₹920",
+    "newPrice": "₹699.2"
+  },
+  {
+    "id": 8,
+    "title": "12V 2A DC Adapter",
+    "src": "/img/shop/adaptors/12v 2a.webp",
+    "discount": "63%",
+    "reviews": 198,
+    "oldPrice": "₹880",
+    "newPrice": "₹325.6"
+  },
+  {
+    "id": 9,
+    "title": "12V 3A DC Adapter",
+    "src": "/img/shop/adaptors/12v 3a.webp",
+    "discount": "40%",
+    "reviews": 376,
+    "oldPrice": "₹1050",
+    "newPrice": "₹630"
+  },
+  {
+    "id": 9,
+    "title": "14V 2A DC Adapter",
+    "src": "/img/shop/adaptors/14v 2a.webp",
+    "discount": "15%",
+    "reviews": 521,
+    "oldPrice": "₹990",
+    "newPrice": "₹841.5"
+  },
+  {
+    "id": 10,
+    "title": "25V 2A DC Adapter",
+    "src": "/img/shop/adaptors/25.2v 2a.webp",
+    "discount": "58%",
+    "reviews": 390,
+    "oldPrice": "₹1200",
+    "newPrice": "₹504"
+  },
+  {
+    "id": 11,
+    "title": "5V 1A DC Adapter",
+    "src": "/img/shop/adaptors/5v 1a.webp",
+    "discount": "39%",
+    "reviews": 276,
+    "oldPrice": "₹650",
+    "newPrice": "₹396.5"
+  },
+  {
+    "id": 12,
+    "title": "5V 2A DC Adapter",
+    "src": "/img/shop/adaptors/5v 2a.webp",
+    "discount": "74%",
+    "reviews": 167,
+    "oldPrice": "₹780",
+    "newPrice": "₹202.8"
+  },
+  {
+    "id": 13,
+    "title": "0.96 Inch OLED Display Module",
+    "src": "/img/shop/dev boards/0-96-oled-display-module.webp",
+    "discount": "61%",
+    "reviews": 432,
+    "oldPrice": "₹450",
+    "newPrice": "₹175.5"
+  },
+  {
+    "id": 14,
+    "title": "Arduino Mega 2560 Pin Structure",
+    "src": "/img/shop/dev boards/2560-pin-structure.webp",
+    "discount": "11%",
+    "reviews": 299,
+    "oldPrice": "₹200",
+    "newPrice": "₹178"
+  },
+  {
+    "id": 15,
+    "title": "4 Inch Blue Raspberry Pi Display",
+    "src": "/img/shop/dev boards/4inch-blue-rasppi.webp",
+    "discount": "36%",
+    "reviews": 311,
+    "oldPrice": "₹1800",
+    "newPrice": "₹1152"
+  },
+  {
+    "id": 16,
+    "title": "4x4 1x4 Matrix Keyboards Set",
+    "src": "/img/shop/dev boards/4x4-1x4-matrix-keyboards-set.webp",
+    "discount": "22%",
+    "reviews": 245,
+    "oldPrice": "₹550",
+    "newPrice": "₹429"
+  },
+  {
+    "id": 17,
+    "title": "4x4 Matrix Keyboard (2)",
+    "src": "/img/shop/dev boards/4x4-matrix-keyboard-2.webp",
+    "discount": "59%",
+    "reviews": 467,
+    "oldPrice": "₹400",
+    "newPrice": "₹164"
+  },
+  {
+    "id": 18,
+    "title": "4x4 Matrix Keyboard",
+    "src": "/img/shop/dev boards/4x4-matrix-keyboard.webp",
+    "discount": "30%",
+    "reviews": 134,
+    "oldPrice": "₹380",
+    "newPrice": "₹266"
+  },
+  {
+    "id": 19,
+    "title": "5 Inch LCD",
+    "src": "/img/shop/dev boards/5-inch-lcd.webp",
+    "discount": "44%",
+    "reviews": 501,
+    "oldPrice": "₹1600",
+    "newPrice": "₹896"
+  },
+  {
+    "id": 20,
+    "title": "5 Inch OLED",
+    "src": "/img/shop/dev boards/5-incholed.webp",
+    "discount": "68%",
+    "reviews": 388,
+    "oldPrice": "₹2200",
+    "newPrice": "₹704"
+  },
+  {
+    "id": 21,
+    "title": "60W Soldering Iron",
+    "src": "/img/shop/dev boards/60w soldering iron.webp",
+    "discount": "16%",
+    "reviews": 155,
+    "oldPrice": "₹890",
+    "newPrice": "₹747.6"
+  },
+  {
+    "id": 22,
+    "title": "6 Inch TFT with Pen (Red)",
+    "src": "/img/shop/dev boards/6inch-tft-withpen-red.webp",
+    "discount": "33%",
+    "reviews": 422,
+    "oldPrice": "₹1950",
+    "newPrice": "₹1306.5"
+  },
+  {
+    "id": 23,
+    "title": "7 Inch LCD (1)",
+    "src": "/img/shop/dev boards/7-inch-lcd1.webp",
+    "discount": "41%",
+    "reviews": 333,
+    "oldPrice": "₹2100",
+    "newPrice": "₹1239"
+  },
+  {
+    "id": 24,
+    "title": "Arduino Mega 2560 Green Backside",
+    "src": "/img/shop/dev boards/arduino-mega-2560-green-backside.webp",
+    "discount": "72%",
+    "reviews": 211,
+    "oldPrice": "₹4200",
+    "newPrice": "₹1176"
+  },
+  {
+    "id": 25,
+    "title": "Arduino Mega 2560 Green Front",
+    "src": "/img/shop/dev boards/arduino-mega-2560-green-front.webp",
+    "discount": "56%",
+    "reviews": 365,
+    "oldPrice": "₹4200",
+    "newPrice": "₹1848"
+  },
+  {
+    "id": 26,
+    "title": "Arduino Mega 2560 Green with Case",
+    "src": "/img/shop/dev boards/arduino-mega-2560-green-withcase.webp",
+    "discount": "27%",
+    "reviews": 498,
+    "oldPrice": "₹4500",
+    "newPrice": "₹3285"
+  },
+  {
+    "id": 27,
+    "title": "Arduino R3 Atmega328p CH300H",
+    "src": "/img/shop/dev boards/arduino-r3-atmega328p-ch300h.webp",
+    "discount": "14%",
+    "reviews": 178,
+    "oldPrice": "₹600",
+    "newPrice": "₹516"
+  },
+  {
+    "id": 28,
+    "title": "Arduino Uno R3 Original",
+    "src": "/img/shop/dev boards/arduino-uno-r3-org.webp",
+    "discount": "45%",
+    "reviews": 302,
+    "oldPrice": "₹750",
+    "newPrice": "₹412.5"
+  },
+  {
+    "id": 29,
+    "title": "Arduino Uno R3 SMD Back Version",
+    "src": "/img/shop/dev boards/arduino-uno-r3-smd-back-ver.webp",
+    "discount": "60%",
+    "reviews": 265,
+    "oldPrice": "₹720",
+    "newPrice": "₹288"
+  },
+  {
+    "id": 30,
+    "title": "Arduino Uno R3 SMD Version",
+    "src": "/img/shop/dev boards/arduino-uno-r3-smd-ver.webp",
+    "discount": "37%",
+    "reviews": 444,
+    "oldPrice": "₹720",
+    "newPrice": "₹453.6"
+  },
+  {
+    "id": 31,
+    "title": "Arduino Board",
+    "src": "/img/shop/dev boards/arduino.webp",
+    "discount": "25%",
+    "reviews": 188,
+    "oldPrice": "₹580",
+    "newPrice": "₹435"
+  },
+  {
+    "id": 32,
+    "title": "Arduino Original Back",
+    "src": "/img/shop/dev boards/back-ard-org.webp",
+    "discount": "52%",
+    "reviews": 319,
+    "oldPrice": "₹620",
+    "newPrice": "₹297.6"
+  },
+  {
+    "id": 33,
+    "title": "Double Clad PCB (8 Pieces)",
+    "src": "/img/shop/dev boards/double-clad-8pcs.webp",
+    "discount": "13%",
+    "reviews": 477,
+    "oldPrice": "₹400",
+    "newPrice": "₹348"
+  },
+  {
+    "id": 34,
+    "title": "ESP32 (2 Pieces)",
+    "src": "/img/shop/dev boards/esp32-2pcs.webp",
+    "discount": "66%",
+    "reviews": 234,
+    "oldPrice": "₹1100",
+    "newPrice": "₹374"
+  },
+  {
+    "id": 35,
+    "title": "ESP32 CAM and Baseboard (Disassembled)",
+    "src": "/img/shop/dev boards/esp32cam-and-baseboard-disassemble.webp",
+    "discount": "31%",
+    "reviews": 512,
+    "oldPrice": "₹1200",
+    "newPrice": "₹828"
+  },
+  {
+    "id": 36,
+    "title": "ESP32 CAM Baseboard (2)",
+    "src": "/img/shop/dev boards/esp32cam-baseboard-2.webp",
+    "discount": "49%",
+    "reviews": 399,
+    "oldPrice": "₹950",
+    "newPrice": "₹484.5"
+  },
+  {
+    "id": 37,
+    "title": "ESP32 CAM Baseboard",
+    "src": "/img/shop/dev boards/esp32cam-baseboard.webp",
+    "discount": "75%",
+    "reviews": 146,
+    "oldPrice": "₹950",
+    "newPrice": "₹237.5"
+  },
+  {
+    "id": 38,
+    "title": "ESP32 CAM with Baseboard (2)",
+    "src": "/img/shop/dev boards/esp32cam-with-baseboard-2.webp",
+    "discount": "17%",
+    "reviews": 401,
+    "oldPrice": "₹1300",
+    "newPrice": "₹1079"
+  },
+  {
+    "id": 39,
+    "title": "ESP32 CAM with Baseboard",
+    "src": "/img/shop/dev boards/esp32cam-with-baseboard.webp",
+    "discount": "54%",
+    "reviews": 282,
+    "oldPrice": "₹1300",
+    "newPrice": "₹598"
+  },
+  {
+    "id": 40,
+    "title": "ESP32 CAM without Baseboard (2)",
+    "src": "/img/shop/dev boards/esp32cam-without-baseboard-2.webp",
+    "discount": "29%",
+    "reviews": 356,
+    "oldPrice": "₹1100",
+    "newPrice": "₹781"
+  },
+  {
+    "id": 41,
+    "title": "ESP32 CAM without Baseboard",
+    "src": "/img/shop/dev boards/esp32cam-without-baseboard.webp",
+    "discount": "69%",
+    "reviews": 190,
+    "oldPrice": "₹1100",
+    "newPrice": "243"
+  },
+  {
+    "id": 42,
+    "title": "Transparent Glue Stick",
+    "src": "/img/shop/dev boards/Glue-Stick-transperant.webp",
+    "discount": "21%",
+    "reviews": 333,
+    "oldPrice": "₹15",
+    "newPrice": "₹11.85"
+  },
+  {
+    "id": 43,
+    "title": "HLK-5V-3W Power Supply Module",
+    "src": "/img/shop/dev boards/hlink-5v-3w.webp",
+    "discount": "57%",
+    "reviews": 188,
+    "oldPrice": "₹280",
+    "newPrice": "₹120.4"
+  },
+  {
+    "id": 44,
+    "title": "Nano Data Cable (0.5m)",
+    "src": "/img/shop/dev boards/Nano-data-cable-0.5m.webp",
+    "discount": "35%",
+    "reviews": 421,
+    "oldPrice": "₹120",
+    "newPrice": "₹78"
+  },
+  {
+    "id": 45,
+    "title": "Nano Data Cable (1m)",
+    "src": "/img/shop/dev boards/Nano-data-cable-1m.webp",
+    "discount": "62%",
+    "reviews": 298,
+    "oldPrice": "₹180",
+    "newPrice": "₹68.4"
+  },
+  {
+    "id": 46,
+    "title": "NodeMCU ESP8266",
+    "src": "/img/shop/dev boards/node-mcu-8086.webp",
+    "discount": "43%",
+    "reviews": 505,
+    "oldPrice": "₹350",
+    "newPrice": "₹199.5"
+  },
+  {
+    "id": 47,
+    "title": "1 Inch OLED Display (4-Pin)",
+    "src": "/img/shop/dev boards/Oled 1inch-4pin.webp",
+    "discount": "12%",
+    "reviews": 165,
+    "oldPrice": "₹220",
+    "newPrice": "₹193.6"
+  },
+  {
+    "id": 48,
+    "title": "2 Inch OLED Display (Blue)",
+    "src": "/img/shop/dev boards/Oled-2inch-blue.webp",
+    "discount": "51%",
+    "reviews": 372,
+    "oldPrice": "₹480",
+    "newPrice": "₹235.2"
+  },
+  {
+    "id": 49,
+    "title": "Large OLED Display",
+    "src": "/img/shop/dev boards/oled-lg.webp",
+    "discount": "26%",
+    "reviews": 249,
+    "oldPrice": "₹600",
+    "newPrice": "₹444"
+  },
+  {
+    "id": 50,
+    "title": "Original Arduino Mega 2560",
+    "src": "/img/shop/dev boards/org-arduino-mega-2560.webp",
+    "discount": "73%",
+    "reviews": 122,
+    "oldPrice": "₹4800",
+    "newPrice": "₹1296"
+  },
+  {
+    "id": 51,
+    "title": "Arduino Board Pack",
+    "src": "/img/shop/dev boards/pack-ard-board.webp",
+    "discount": "46%",
+    "reviews": 310,
+    "oldPrice": "₹850",
+    "newPrice": "₹459"
+  },
+  {
+    "id": 52,
+    "title": "Raspberry Pi Display with Pen (2)",
+    "src": "/img/shop/dev boards/rasp-pi-display-withpen-2.webp",
+    "discount": "38%",
+    "reviews": 444,
+    "oldPrice": "₹2800",
+    "newPrice": "₹1736"
+  },
+  {
+    "id": 53,
+    "title": "Raspberry Pi Display with Pen",
+    "src": "/img/shop/dev boards/rasp-pi-display-withpen.webp",
+    "discount": "64%",
+    "reviews": 201,
+    "oldPrice": "₹2800",
+    "newPrice": "₹1008"
+  },
+  {
+    "id": 54,
+    "title": "Raspberry Pi 3 Model B+ (8GB)",
+    "src": "/img/shop/dev boards/rasp-pi3-8gb-model.webp",
+    "discount": "23%",
+    "reviews": 388,
+    "oldPrice": "₹5200",
+    "newPrice": "₹4004"
+  },
+  {
+    "id": 55,
+    "title": "Raspberry Pi 4 Model B (8GB)",
+    "src": "/img/shop/dev boards/rasp-pi4-8gb-model.webp",
+    "discount": "50%",
+    "reviews": 277,
+    "oldPrice": "₹6800",
+    "newPrice": "₹3400"
+  },
+  {
+    "id": 56,
+    "title": "TFT Display (Blue, Soldered)",
+    "src": "/img/shop/dev boards/tft-display-blue-soldered.webp",
+    "discount": "18%",
+    "reviews": 465,
+    "oldPrice": "₹920",
+    "newPrice": "₹754.4"
   }
 ]
-
